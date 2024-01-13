@@ -1,2 +1,3 @@
-# tprep-exmpl
-text preparation for LLM fine tuning example
+# Basic Retrieval Augmented Generation
+
+Basic RAG example 

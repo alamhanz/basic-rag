@@ -1,0 +1,443 @@
+
+
+Skip to main content
+
+Thank you for visiting nature.com. You are using a browser version with
+limited support for CSS. To obtain the best experience, we recommend you use a
+more up to date browser (or turn off compatibility mode in Internet Explorer).
+In the meantime, to ensure continued support, we are displaying the site
+without styles and JavaScript.
+
+Advertisement
+
+  * View all journals
+  * Search
+  * Log in
+
+  * Explore content
+  * About the journal
+  * Publish with us
+  * Subscribe
+
+  * Sign up for alerts
+  * RSS feed
+
+  1. nature
+  2. news explainer
+  3. article
+
+Japan earthquakes: the science behind the deadly tremors
+
+Download PDF
+
+  * NEWS EXPLAINER
+  * 03 January 2024
+  * Correction 04 January 2024
+
+# Japan earthquakes: the science behind the deadly tremors
+
+A massive quake that triggered tsunamis, fires and multiple aftershocks was
+the largest on the country’s west coast in more than a century.
+
+By
+
+  * Gemma Conroy
+
+  1. Gemma Conroy
+
+View author publications
+
+You can also search for this author in PubMed  Google Scholar
+
+  * Twitter
+  * Facebook
+  * Email
+
+You have full access to this article via your institution.
+
+Download PDF
+
+Download PDF
+
+Buildings in Wajima were reduced to rubble by fires that broke out after the
+earthquakes.Credit: The Asahi Shimbun via Getty Images
+
+This week, a series of powerful earthquakes struck the west coast of Japan,
+killing dozens of people and reducing many buildings to rubble.
+
+A magnitude-7.6 earthquake hit Ishikawa prefecture on the country’s main
+island, Honshu, on 1 January. It was the strongest quake to occur in the
+prefecture in more than a century. “It’s probably one of the largest
+earthquakes on the west coast of Japan,” says Takuya Nishimura, an earthquake
+scientist at Kyoto University in Japan.
+
+The massive earthquake prompted tsunami warnings, with ocean waves reaching
+more than 1 metre high in some areas along the coastline. By the following
+morning, the Japan Meteorological Agency (JMA) had recorded a further 146
+smaller earthquakes on Ishikawa’s Noto Peninsula, including one that the US
+Geological Survey (USGS) measured at a magnitude of 6.2. The tremors have
+resulted in more than 60 deaths, with reports of dozens more expected as
+rescue teams search through the rubble.
+
+## What caused the earthquake?
+
+Japan is one of the most earthquake-prone countries in the world, because it
+sits on top of four converging tectonic plates that constantly grind together.
+Some 1,500 earthquakes strike the country every year, although the majority
+are too mild to be felt. Most major earthquakes in Japan are caused by the
+Pacific Plate off the east coast, which slides beneath another plate. This
+subduction was the driving force behind Japan’s largest ever recorded
+earthquake — a magnitude-9.1 quake that struck the Tohoku region in 2011 and
+triggered a massive tsunami — says Yoshihiro Hiramatsu, a seismologist at
+Kanazawa University in Japan.
+
+AI predicts how many earthquake aftershocks will strike — and their strength
+
+Ishikawa itself is no stranger to earthquakes, with more than 500 occurring
+since 2020. In May 2023, the USGS measured a magnitude-6.3 earthquake that
+shook the region and destroyed dozens of buildings. But these events are
+underpinned by a different mechanism from quakes that happen on the eastern
+side of Japan, says Adam Pascale, a seismologist at the Seismology Research
+Centre in Melbourne, Australia. Instead of occurring along the boundary of a
+tectonic plate, the earthquakes in Ishikawa are triggered by faults within the
+plate itself, which are put under pressure when the tectonic plates push
+against each other. “That stress builds up in the plate and it’s going to slip
+somehow,” says Pascale.
+
+## Why have there been so many aftershocks?
+
+The main magnitude-7.6 earthquake probably originated in a 150-kilometre-long
+fault beneath the Noto Peninsula, says Aitaro Kato, a seismologist at the
+University of Tokyo. “The source area is very wide,” he says. This giant
+fracture is of a type known as a reverse fault, which occurs when one slab of
+rock moves on top of another. But he suspects that multiple fault ruptures
+inside the plate probably triggered the aftershocks that followed the larger
+earthquake.
+
+Studies have shown1 that fluids deep inside Earth’s crust could also drive
+earthquakes in Ishikawa. As these fluids well up through the crust, they can
+weaken the fault zone and cause it to slip, leading to a series of aftershocks
+following a main earthquake, says Hiramatsu.
+
+## How has the country responded?
+
+Since the 2011 Tohoku event, Japan has improved its earthquake early-warning
+systems, says Kato. Shortly after the magnitude-7.6 earthquake hit Ishikawa,
+the JMA issued a major tsunami warning and called on residents to evacuate to
+higher ground.
+
+But the aftershocks have made it difficult for rescue teams to retrieve people
+who are trapped under the ruins of fallen buildings, and they could cause
+further damage to already weakened structures, says Pascale. “That’s one of
+the biggest dangers at this point,” he says.
+
+The frequency of aftershocks is expected to decrease in the coming days, but
+more will probably hit the region, says Nishimura. He adds that another
+magnitude-6 or 7 earthquake is not out of the question. “We need to prepare.”
+
+_Nature_ **625** , 228 (2024)
+
+_doi: https://doi.org/10.1038/d41586-024-00010-1_
+
+### Updates & Corrections
+
+  * **Correction 04 January 2024** : This article has been amended to correct Aitaro Kato’s affiliation.
+
+## References
+
+  1. Kato, A. _Geophys. Res. Lett._ **51** , e2023GL106444 (2024).
+
+Article Google Scholar
+
+Download references
+
+Reprints and permissions
+
+## Related Articles
+
+  * AI predicts how many earthquake aftershocks will strike — and their strength 
+
+  * Earthquake-risk maps pinpoint world’s most vulnerable areas 
+
+  * Why was the Morocco earthquake so deadly? 
+
+  * Turkey–Syria earthquake: what scientists know 
+
+  * Protect funding for US earthquake early-warning system 
+
+  * What Turkey’s earthquake tells us about the science of seismic forecasting 
+
+## Subjects
+
+  * Seismology
+  * Geology
+
+## Latest on:
+
+Seismology
+
+Iceland braces for volcanic eruption: what scientists are watching
+
+News 21 NOV 23
+
+Deep Mars is surprisingly soft
+
+News & Views 25 OCT 23
+
+Evidence for a liquid silicate layer atop the Martian core
+
+Article 25 OCT 23
+
+Geology
+
+Scientists drilled through 500 metres of Greenland’s ice — here’s what they
+found at the bottom
+
+News 14 DEC 23
+
+Strange blobs in Earth’s mantle are relics of a massive collision
+
+News 01 NOV 23
+
+Did dust from the Chicxulub asteroid impact kill the dinosaurs?
+
+News 30 OCT 23
+
+##
+
+###  Jobs
+
+  * #### Assistant Scientist/Professor in Rare Disease Research, Sanford Research
+
+Assistant Scientist/Professor in Rare Disease Research, Sanford Research
+Sanford Research invites applications for full-time faculty at the rank of...
+
+Sioux Falls, South Dakota
+
+Sanford Research
+
+  * #### 2024 Overseas Outstanding Young Scholars: NKU Invites Talents from Around the World
+
+Sincerely invites outstanding talents at home and abroad to apply for the 2024
+Overseas Outstanding Young Scholars Fund.
+
+Tianjin, China
+
+Nankai University
+
+  * #### Recruitment of scientific research personnel in immunology, vaccinology and nanomedicine
+
+Professor, Associated Professor, Assistant Professor, Post-doctoral, Research
+Assistant
+
+Shenzhen, Guangdong, China
+
+Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of
+Sciences（CAS)
+
+  * #### Postdoctoral positions in Quantum Nanophotonics
+
+We are looking for highly motivated and skilled postdoctoral researchers in
+integrated photonics and quantum device engineering.
+
+Gothenburg, Sweden
+
+Chalmers University of Technology
+
+  * #### PhD positions in Quantum Nanophotonics
+
+We are looking for highly motivated and skilled PhD students in integrated
+photonics and quantum device engineering.
+
+Gothenburg, Sweden
+
+Chalmers University of Technology
+
+You have full access to this article via your institution.
+
+Download PDF
+
+Download PDF
+
+## Related Articles
+
+  * AI predicts how many earthquake aftershocks will strike — and their strength 
+
+  * Earthquake-risk maps pinpoint world’s most vulnerable areas 
+
+  * Why was the Morocco earthquake so deadly? 
+
+  * Turkey–Syria earthquake: what scientists know 
+
+  * Protect funding for US earthquake early-warning system 
+
+  * What Turkey’s earthquake tells us about the science of seismic forecasting 
+
+## Subjects
+
+  * Seismology
+  * Geology
+
+## Sign up to Nature Briefing
+
+An essential round-up of science news, opinion and analysis, delivered to your
+inbox every weekday.
+
+Email address
+
+Yes! Sign me up to receive the daily _Nature Briefing_ email. I agree my
+information will be processed in accordance with the _Nature_ and Springer
+Nature Limited Privacy Policy.
+
+Sign up
+
+Close banner Close
+
+Sign up for the _Nature Briefing_ newsletter — what matters in science, free
+to your inbox daily.
+
+Email address
+
+Sign up
+
+I agree my information will be processed in accordance with the _Nature_ and
+Springer Nature Limited Privacy Policy.
+
+Close banner Close
+
+Get the most important science stories of the day, free in your inbox. Sign up
+for Nature Briefing
+
+## Explore content
+
+  * Research articles 
+  * News 
+  * Opinion 
+  * Research Analysis 
+  * Careers 
+  * Books & Culture 
+  * Podcasts 
+  * Videos 
+  * Current issue 
+  * Browse issues 
+  * Collections 
+  * Subjects 
+
+  * Follow us on Facebook 
+  * Follow us on Twitter 
+  * Subscribe
+  * Sign up for alerts
+  * RSS feed
+
+## About the journal
+
+  * Journal Staff 
+  * About the Editors 
+  * Journal Information 
+  * Our publishing models 
+  * Editorial Values Statement 
+  * Journal Metrics 
+  * Awards 
+  * Contact 
+  * Editorial policies 
+  * History of Nature 
+  * Send a news tip 
+
+## Publish with us
+
+  * For Authors 
+  * For Referees 
+  * Language editing services 
+  * Submit manuscript
+
+## Search
+
+Search articles by subject, keyword or author
+
+Show results from All journals
+
+Search
+
+Advanced search
+
+### Quick links
+
+  * Explore articles by subject
+  * Find a job
+  * Guide to authors
+  * Editorial policies
+
+Nature ( _Nature_ )  ISSN 1476-4687 (online)  ISSN 0028-0836 (print)
+
+## nature.com sitemap
+
+### About Nature Portfolio
+
+  * About us
+  * Press releases
+  * Press office
+  * Contact us
+
+### Discover content
+
+  * Journals A-Z
+  * Articles by subject
+  * Protocol Exchange
+  * Nature Index
+
+### Publishing policies
+
+  * Nature portfolio policies
+  * Open access
+
+### Author & Researcher services
+
+  * Reprints & permissions
+  * Research data
+  * Language editing
+  * Scientific editing
+  * Nature Masterclasses
+  * Live Expert Trainer-led workshops
+  * Research Solutions
+
+### Libraries & institutions
+
+  * Librarian service & tools
+  * Librarian portal
+  * Open research
+  * Recommend to library
+
+### Advertising & partnerships
+
+  * Advertising
+  * Partnerships & Services
+  * Media kits
+  * Branded content
+
+### Professional development
+
+  * Nature Careers
+  * Nature Conferences
+
+### Regional websites
+
+  * Nature Africa
+  * Nature China
+  * Nature India
+  * Nature Italy
+  * Nature Japan
+  * Nature Korea
+  * Nature Middle East
+
+  * Privacy Policy
+  * Use of cookies
+  * Your privacy choices/Manage cookies 
+  * Legal notice
+  * Accessibility statement
+  * Terms & Conditions
+  * Your US state privacy rights
+
+(C) 2024 Springer Nature Limited
+
+  *[ISSN]: International Standard Serial Number
+
